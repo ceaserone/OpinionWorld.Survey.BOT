@@ -1,3 +1,15 @@
+Usage:
+
+Why even do it:
+  ```bash
+   python survey_bot.py https://opinionworldsite.com
+   ```
+   Or use cookie file duh:
+   ```bash
+   python survey_bot.py https://optionworldsite.something --cookies path/to/cookie.txt
+   ```
+
+
 # OpinionWorld.Survey.BOT
 It's a bot Napoleon, for surveys..on Opinionworld..
 
