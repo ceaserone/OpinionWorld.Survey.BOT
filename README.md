@@ -51,4 +51,8 @@ button.new-submit-btn {
 (by class name, can be broader)
 submit_button = driver.find_element(By.CLASS_NAME, "submit-bt[code]
 
-#So thats rhat for now....
+UPDATE!!02.25.25
+Update coming soon, seems they did something and im to lazy to find out
+but will soon...maybe someone else will before me??
+
+#So thats that for now....
